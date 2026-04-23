@@ -44,7 +44,7 @@ Criar uma interface de login visualmente agradável, com foco em:
 
 ## 🔗 Acesse o projeto
 
-(Coloque aqui o link do deploy - Vercel ou GitHub Pages)
+https://kauanavs.github.io/modern-login-ui/
 
 ---
 
